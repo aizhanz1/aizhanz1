@@ -35,6 +35,14 @@ So here is a list of the ones I have (in reverse-chronological order, with the d
 
 -[Learn Statistics with Python Course](https://drive.google.com/drive/u/2/folders/1LA5WrxaViWgR14JmzgexRhnvUhR9NPbc) (October 2020) (Codecademy)
 
+-[Python Data Structures](https://drive.google.com/drive/u/2/folders/1LA5WrxaViWgR14JmzgexRhnvUhR9NPbc) (July 2020) (Coursera)
+
+-[Technology Consulting Virtual Internship](https://drive.google.com/drive/u/2/folders/1LA5WrxaViWgR14JmzgexRhnvUhR9NPbc) (July 2020) (InsideSherpa)
+
+-[Business English: Networking](https://drive.google.com/drive/u/2/folders/1LA5WrxaViWgR14JmzgexRhnvUhR9NPbc) (May 2020) (Coursera)
+
+
+
 
 ## Contacts
 - LinkedIn: ([aizhanz1](https://www.linkedin.com/in/aizhan-ismailova/))
