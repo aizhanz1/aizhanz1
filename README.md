@@ -25,8 +25,10 @@ In this section I will list data analytics projects briefly describing the techn
 ### Power BI projects
 
 -[Retail chain in US](https://github.com/aizhanz1/aizhanz1/tree/main/Retail_Analysis_US)
+Report describes two supply chain sales in terms of state, history, buyer, and category. 
 
 -[Forecast Analysis in US](https://github.com/aizhanz1/aizhanz1/tree/main/Analysis_Forecast_sales)
+Report analysis based on the comparioson of actual sales, budges sales, and forecast sales in different dimentions. 
 
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. 
