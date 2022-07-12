@@ -9,8 +9,12 @@ This is a repository to showcase skills, share projects and track my progress in
 
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
+	+ [Technical Writing](#writing-requirements)
+	+ [Power BI projects](#power-bi-projects)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
+
+
 
 
 ## Portfolio Projects
