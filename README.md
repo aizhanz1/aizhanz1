@@ -17,7 +17,14 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+### Writing requirements
+
 -[Technical Writing Functional Documentation](https://github.com/aizhanz1/software-writing-aizhan/wiki/Functional-Documentation)
+
+
+### Power BI projects
+
+-[Retail chain in US](https://github.com/aizhanz1/aizhanz1/tree/main/Retail_Analysis_US)
 
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. 
