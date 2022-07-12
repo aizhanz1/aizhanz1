@@ -26,6 +26,8 @@ In this section I will list data analytics projects briefly describing the techn
 
 -[Retail chain in US](https://github.com/aizhanz1/aizhanz1/tree/main/Retail_Analysis_US)
 
+-[Forecast Analysis in US](https://github.com/aizhanz1/aizhanz1/tree/main/Analysis_Forecast_sales)
+
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. 
 So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
