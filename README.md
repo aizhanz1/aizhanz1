@@ -24,11 +24,21 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Power BI projects
 
--[Retail chain in the US](https://github.com/aizhanz1/aizhanz1/tree/main/Retail_Analysis_US)
-Report describes two supply chain sales in terms of state, history, buyer, and category. 
+### Retail chain in the US Analytics
+**Power BI file:** [`dashboard.pbix`](https://github.com/aizhanz1/aizhanz1/tree/main/Retail_Analysis_US)    
+**Dashboard:** [`dashboard.pdf`](https://github.com/aizhanz1/aizhanz1/blob/main/Retail_Analysis_US/Retail_US_demo_data.pdf)   
+**Description:** Power BI dashboard consisted of: analytical chart to choose the best states by sales, review of sales per time; a ranked table of top sales by buyer; Sales growth profit by FY Qtr; filters by states.    
+**Skills:** interview with a customer, requirements capture, designing an analytical dashboard, product delivery.    
+**Technology:** Power BI.    
+**Results:** created an analytical dashboard to support daily activities of a supply chains involved in retail sales in the US.
 
--[Forecast Analysis in the US](https://github.com/aizhanz1/aizhanz1/tree/main/Analysis_Forecast_sales)
-Report analysis based on the comparison of actual sales, budges sales, and forecast sales in different dimentions. 
+### Forecast Analytics
+**Power BI file:** [`dashboard.pbix`](https://github.com/aizhanz1/aizhanz1/tree/main/Analysis_Forecast_sales)    
+**Dashboard:** [`dashboard.pdf`](https://github.com/aizhanz1/aizhanz1/blob/main/Analysis_Forecast_sales/Forecast_Analysis_demo_data.pdf)   
+**Description:** Power BI dashboard consisted of: analytical chart of actual sales, budges sales, and forecast sales; review of sales per time; filters by region.    
+**Skills:** interview with a customer, requirements capture, designing an analytical dashboard, product delivery.    
+**Technology:** Power BI.    
+**Results:** created an analytical dashboard to support daily activities of a supply chains involved in retail sales in the US.
 
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. 
