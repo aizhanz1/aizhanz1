@@ -7,7 +7,6 @@ This is a repository to showcase skills, share projects and track my progress in
 <br>
 ## Table of contents
 
-- 📫 How to reach me 
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 - [Certificates](#certificates)
