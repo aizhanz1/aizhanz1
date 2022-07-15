@@ -43,7 +43,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Power BI.    
 **Results:** created an analytical dashboard to support daily activities of a supply chains involved in retail sales in the US.
 
-### Retail chain report [Study project] 
+### Retail chain report [Study project for l-a-b-a school] 
 **Power BI file:** [`dashboard.pbix`](https://github.com/aizhanz1/aizhanz1/blob/main/Retail_report_RUS/Retail_report_RUS.pbix)    
 **Dashboard:** [`dashboard.pdf`](https://github.com/aizhanz1/aizhanz1/blob/main/Retail_report_RUS/Retail_report_RUS.pdf)   
 **Description:** Power BI dashboard consisted of: brand sales dynamics, plan-fact analysis of operating expenses, plan-fact analysis of net profit, actual sales in hryvnia or euro, analysis of the average check value in terms of customer characteristics (gender, occupation, acquisition channel, age), comparison of the fact of sales with the same period last year.
