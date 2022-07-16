@@ -11,6 +11,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](#portfolio-projects)
 	+ [Technical Writing](#writing-requirements)
 	+ [Power BI projects](#power-bi-projects)
+	+ [Tableau Public projects](#tableau-projects)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -50,6 +51,15 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:**   designing an analytical dashboard, product delivery.    
 **Technology:** Power BI.    
 **Results:** created an analytical dashboard to support daily activities of a supply chains involved in retail sales in the US.
+
+### Tableau projects
+
+### AirBnb report [Study project] 
+**Dashboard:** [`dashboard`](https://public.tableau.com/app/profile/aizhan.ismailova/viz/AirBnBStudyProject/Dashboard1?publish=yes)   
+**Description:** Power BI dashboard consisted of: average price dynamics through the 2016, price per location, price per bedrooms.
+**Skills:**   designing an analytical dashboard, product delivery.    
+**Technology:** Tableau.    
+**Results:** created an analytical dashboard to analyze best choice in terms of time, location,  and apartmentto to start a business in AirBnb. 
 
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. 
