@@ -25,6 +25,9 @@ In this section I will list data analytics projects briefly describing the techn
 
 -[Technical Writing Functional Documentation](https://github.com/aizhanz1/software-writing-aizhan/wiki/Functional-Documentation)
 
+###Python Notebooks
+**Python notebook:** [`EDA of Air Quality dataset by WHO (2010-2021).pbix`](https://github.com/aizhanz1/python notebooks/Data_Analysis_for _portfolio.ipynb)  
+** Dataset**
 
 ### Power BI projects
 
