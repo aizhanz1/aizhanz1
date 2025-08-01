@@ -9,11 +9,13 @@ This is a repository to showcase skills, share projects and track my progress in
 
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Technical Writing](#writing-requirements)
-	+ [Power BI projects](#power-bi-projects)
-	+ [Tableau Public projects](#tableau-projects)
++ [Technical Writing](#writing-requirements)
++ [Python projects](#python-projects)
++ [Power BI projects](#power-bi-projects)
++ [Tableau Public projects](#tableau-projects)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
+
 
 
 
