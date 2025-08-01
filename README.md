@@ -25,10 +25,16 @@ In this section I will list data analytics projects briefly describing the techn
 
 -[Technical Writing Functional Documentation](https://github.com/aizhanz1/software-writing-aizhan/wiki/Functional-Documentation)
 
-###Python Notebooks
-**Python notebook:** [`EDA of Air Quality dataset by WHO (2010-2021).pbix`](https://github.com/aizhanz1/python notebooks/Data_Analysis_for _portfolio.ipynb)  
-** Dataset**
 
+### Python Notebooks
+
+**Python Notebook:** [EDA of Air Quality dataset by WHO (2010-2021)](https://github.com/aizhanz1/aizhanz1/blob/main/python%20notebooks/Data_Analysis_for%20_portfolio.ipynb)  
+**Description:** Demonstrates exploratory data analysis of air quality data across regions, countries worldwide, with interactive visualizations and insights.  
+**Skills:** Python, pandas, data visualization, exploratory analysis.  
+**Technology:** Jupyter Notebook, Google Colab, Python.  
+**Results:** MENA (Eastern Mediterranean region) has the highest PM10 level. Strong positive correlation. Higher PM2.5 tends to be found with higher PM10. There is a statistically significant upward trend in PM2.5 over time (about 0.67 μg/m³ per year). However, year alone explains almost nothing about the changes in PM2.5 (R² = 0.008). Other factors (location, region, policies, etc.) likely drive the real variation.
+
+The model does NOT fit the data very well—it’s only picking up a very weak overall time trend.
 ### Power BI projects
 
 ### Retail chain in the US Analytics
