@@ -36,7 +36,6 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Jupyter Notebook, Google Colab, Python.  
 **Results:** MENA (Eastern Mediterranean region) has the highest PM10 level. Strong positive correlation. Higher PM2.5 tends to be found with higher PM10. There is a statistically significant upward trend in PM2.5 over time (about 0.67 μg/m³ per year). However, year alone explains almost nothing about the changes in PM2.5 (R² = 0.008). Other factors (location, region, policies, etc.) likely drive the real variation.
 
-The model does NOT fit the data very well—it’s only picking up a very weak overall time trend.
 ### Power BI projects
 
 ### Retail chain in the US Analytics
