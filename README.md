@@ -25,7 +25,8 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Writing requirements
 
--[Technical Writing Functional Documentation](https://github.com/aizhanz1/software-writing-aizhan/wiki/Functional-Documentation)
+## [📂 Technical writing](https://github.com/aizhanz1/software-writing-aizhan/tree/main)
+Explore the complete repository for additional samples, including API specs, user guides, and release documentation.
 
 
 ### Python Notebooks
