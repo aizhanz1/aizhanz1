@@ -65,9 +65,19 @@ Explore the complete repository for additional samples, including API specs, use
 
 ### Tableau projects
 
+### Credit Card Complains Analysis in the US
+**Dashboard:** [`dashboard`](https://public.tableau.com/views/CreditCardComplaintsAnalysis2/CREDITCARDCOMPLAINTSDASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)   
+**Business Requirements Document**
+**Project Overview Document** 
+**Description:** This project focuses on analyzing credit card complaints data, offering insights into common issues, response times, and geographic distribution. By leveraging Tableau, the analysis provides a visual representation of complaint trends, helping stakeholders address customer pain points more effectively.
+**Skills:**   designing an analytical dashboard.    
+**Technology:** Tableau.    
+**Results:** This analysis provides critical insights into credit card complaint patterns, helping companies identify key areas for improvement in customer service and complaint resolution.
+ 
+
 ### AirBnb report [Study project] 
 **Dashboard:** [`dashboard`](https://public.tableau.com/app/profile/aizhan.ismailova/viz/AirBnBStudyProject/Dashboard1?publish=yes)   
-**Description:** Power BI dashboard consisted of: average price dynamics through the 2016, price per location, price per bedrooms.
+**Description:** Tableau dashboard consisted of: average price dynamics through the 2016, price per location, price per bedrooms.
 **Skills:**   designing an analytical dashboard, product delivery.    
 **Technology:** Tableau.    
 **Results:** created an analytical dashboard to analyze best choice in terms of time, location,  and apartmentto to start a business in AirBnb. 
