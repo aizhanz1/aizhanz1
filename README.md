@@ -67,8 +67,8 @@ Explore the complete repository for additional samples, including API specs, use
 
 ### Credit Card Complains Analysis in the US
 **Dashboard:** [`dashboard`](https://public.tableau.com/views/CreditCardComplaintsAnalysis2/CREDITCARDCOMPLAINTSDASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)   
-**Business Requirements Document**
-**Project Overview Document** 
+**Business Requirements Document** [Business Requirements – DOCX](https://github.com/aizhanz1/Portfolio/blob/main/Complains%20Analysis/Business%20Requirements.docx)
+**Project Overview Document** [Project Description – DOCX](https://github.com/aizhanz1/Portfolio/blob/main/Complains%20Analysis/Project%20description.docx)
 **Description:** This project focuses on analyzing credit card complaints data, offering insights into common issues, response times, and geographic distribution. By leveraging Tableau, the analysis provides a visual representation of complaint trends, helping stakeholders address customer pain points more effectively.
 **Skills:**   designing an analytical dashboard.    
 **Technology:** Tableau.    
