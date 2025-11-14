@@ -28,6 +28,17 @@ In this section I will list data analytics projects briefly describing the techn
 ## [📂 Technical writing](https://github.com/aizhanz1/software-writing-aizhan/tree/main)
 Explore the complete repository for additional samples, including API specs, user guides, and release documentation.
 
+### [1. Fintech Documentation Demo](https://github.com/aizhanz1/software-writing-aizhan/wiki/Fintech-Documentation-Demo)
+A mock API documentation and release notes for a financial analytics platform.  
+Demonstrates clear endpoint structure, authentication details, and release management best practices.
+
+### [2. Functional Documentation](https://github.com/aizhanz1/software-writing-aizhan/wiki/Functional-Documentation)
+A structured functional specification outlining system requirements, business logic, and user stories.  
+Highlights clarity in documenting workflows and aligning technical details with stakeholder needs.
+
+### 3. Process Map: [Requirement Gathering SOP – PDF](https://github.com/aizhanz1/software-writing-aizhan/blob/main/SOP%20Requirement%20Gathering.pdf)
+
+
 
 ### Python Notebooks
 
