@@ -1,0 +1,7 @@
+Project Overview
+In this project, I designed and implemented a complete end-to-end BI solution from university research data. The project covered the full analytics development lifecycle—from requirements understanding and gathering to data cleaning, data modeling, transformation logic, the creation of an analytics-ready schema, and developing Tableau dashboard. Using the provided datasets on research projects, staff profiles, patents, and publications, I built a dimensional model that supports cross-domain insights and enables centralized reporting across all research activities.
+
+
+Business Context
+The Research Project Office oversees multiple parallel research activities, including project funding, researcher involvement, publication output, and patent commercialization. These datasets were originally siloed across different sources, making it difficult to produce consolidated insights or evaluate performance. The objective was to design a scalable analytics model that connects these domains using consistent keys and clean, standardized data. The outcome enables leadership to monitor project performance, funding utilization, researcher productivity, and research impact in a single analytical ecosystem.
+
