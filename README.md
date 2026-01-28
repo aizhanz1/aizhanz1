@@ -48,7 +48,7 @@ Highlights clarity in documenting workflows and aligning technical details with 
 **Technology:** Jupyter Notebook, Google Colab, Python.  
 **Results:** MENA (Eastern Mediterranean region) has the highest PM10 level. Strong positive correlation. Higher PM2.5 tends to be found with higher PM10. There is a statistically significant upward trend in PM2.5 over time (about 0.67 μg/m³ per year). However, year alone explains almost nothing about the changes in PM2.5 (R² = 0.008). Other factors (location, region, policies, etc.) likely drive the real variation.
 
-**Python Notebook:** [RFM Customer Segmentation – Online Retail](https://github.com/yourusername/yourrepo/blob/main/RFM_model.ipynb)  
+**Python Notebook:** [RFM Customer Segmentation – Online Retail](https://github.com/aizhanz1/Portfolio/blob/main/RFM%20Model/README.md)  
 **Description:** Demonstrates customer segmentation using RFM (Recency, Frequency, Monetary) analysis on transactional retail data to identify high-value, loyal, at-risk, and inactive customers for targeted marketing strategies.  
 **Skills:** Python, pandas, customer analytics, data cleaning, feature engineering, segmentation analysis.  
 **Technology:** Jupyter Notebook, Python, Excel dataset.  
